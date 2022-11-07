@@ -1,6 +1,5 @@
-# EcomenteLima
-Para el proyecto de curso de Diseño y Patrones de Software del grupo 3
-
-tareas:
-
--pasar las clases del diagrama de clases a codigo en java
+# Develop
+Para los avances que trabajen.
+  Despues cuando confirmemos que estan correctas las partes avanzadas
+se pasaran en conjunto al repo de EcomenteLima,
+en ese repo se guardara el codigo final
